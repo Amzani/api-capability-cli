@@ -1,7 +1,7 @@
 {
   "name": "api-capability-cli",
   "version": "0.0.0",
-  "description": "API capability CLI for API governance checks",
+  "description": "API governance tool",
   "author": "Samir AMZANI @Amzani",
   "bin": {
     "api-capability-cli": "./bin/run"
